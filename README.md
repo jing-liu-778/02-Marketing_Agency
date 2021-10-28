@@ -20,15 +20,5 @@ The orginal website has layout issue and bad user experience like the color is n
 
 The screenshot of final website as following:
 ```md
-<<<<<<< HEAD
-    ![alt text](assets/images/screenshot-01.png)
-    ![alt text](assets/images/screenshot-02.png)
-    ![alt text](assets/images/screenshot-03.png)
+    !Horiseon](assets/images/screenshot.png)
 ```
-=======
-    ![screensshot-01](assets/images/screenshot-01.png)
-    ![screensshot-02](assets/images/screenshot-02.png)
-    ![screensshot-03](assets/images/screenshot-03.png)
-    ```
-![](assets/images/screenshot-01.png)
->>>>>>> 84f6fb5794e767a65f746c54c0c82d193dbd9a06
